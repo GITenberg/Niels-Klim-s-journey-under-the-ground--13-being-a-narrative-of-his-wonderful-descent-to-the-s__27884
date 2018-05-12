@@ -1,0 +1,51 @@
+_repo: Niels-Klim-s-journey-under-the-ground--13-being-a-narrative-of-his-wonderful-descent-to-the-s__27884
+_version: 0.1.0
+alternative_title: Nicolai Klimii iter subterraneum. English
+contributor:
+  translator:
+    agent_name: Gierlow, John
+    gutenberg_agent_id: '32992'
+    url: http://www.gutenberg.org/2009/agents/32992
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Holberg, Ludvig
+    aliases:
+    - Holberg, Johan Ludvig
+    - Holberg, Baron Ludvig
+    birthdate: 1684
+    deathdate: 1754
+    gutenberg_agent_id: '1863'
+    url: http://www.gutenberg.org/2009/agents/1863
+    wikipedia: http://en.wikipedia.org/wiki/Ludvig_Holberg
+description: "Niels Klim's Underground Travels, originally published in Latin as Nicolai\
+  \ Klimii Iter Subterraneum (1741), is a satirical science-fiction/fantasy novel\
+  \ written by the Norwegian–Danish author Ludvig Holberg. His only novel, it describes\
+  \ a utopian society from an outsider's point of view, and often pokes fun at diverse\
+  \ cultural and social topics such as morality, science, sexual equality, religion,\
+  \ governments, and philosophy.\n From Wikipedia (CC BY-SA)."
+gutenberg_issued: '2009-01-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '27884'
+  wikidata: Q2485789
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PT'
+- !lcsh 'Voyages, Imaginary -- Early works to 1800'
+- !lcsh 'Utopias -- Early works to 1800'
+title: "Niels Klim's journey under the ground\r\nbeing a narrative of his wonderful\
+  \ descent to the subterranean lands; together with an account of the sensible animals\
+  \ and trees inhabiting the planet Nazar and the firmament."
+url: http://www.gutenberg.org/ebooks/27884
+wikipedia:
+- https://sv.wikipedia.org/wiki/Niels_Klims_underjordiska_resa
+- https://en.wikipedia.org/wiki/Niels_Klim%27s_Underground_Travels
+- https://no.wikipedia.org/wiki/Nils_Klims_reise_til_den_underjordiske_verden
+- https://it.wikipedia.org/wiki/Il_viaggio_sotterraneo_di_Niels_Klim
+- https://da.wikipedia.org/wiki/Niels_Klims_underjordiske_Rejse
